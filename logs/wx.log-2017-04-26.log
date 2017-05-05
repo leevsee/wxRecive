@@ -1,0 +1,6 @@
+[2017-04-26 14:37:54.041] [INFO] leeves - service star
+[2017-04-26 14:37:55.591] [INFO] leeves - ::ffff:127.0.0.1 - - "GET /wx/getopenid?js_code=013RtHx91HM7PR1pAXw91VyVx91RtHxE HTTP/1.1" 200 71 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-04-26 14:40:30.801] [INFO] leeves - ::ffff:127.0.0.1 - - "GET /wx/getopenid?js_code=013RtHx91HM7PR1pAXw91VyVx91RtHxE HTTP/1.1" 200 76 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-04-26 14:40:32.113] [INFO] leeves - ::ffff:127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 404 150 "http://leeves.ngrok.cc/wx/getopenid?js_code=013RtHx91HM7PR1pAXw91VyVx91RtHxE" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-04-26 14:40:46.468] [INFO] leeves - ::ffff:127.0.0.1 - - "GET /wx/getopenid HTTP/1.1" 200 76 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-04-26 14:41:51.555] [INFO] leeves - ::ffff:127.0.0.1 - - "GET /wx/getopenid HTTP/1.1" 200 71 "6C8E80DB4EF2FA3E99116.252.23.48" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36"

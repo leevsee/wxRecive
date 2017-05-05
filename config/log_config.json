@@ -1,0 +1,12 @@
+{
+  "appenders": [
+    { "type": "console" },
+    {
+      "type": "DateFile",
+      "filename": "logs/wx.log",
+      "pattern": "-yyyy-MM-dd.log",
+      "alwaysIncludePattern": true,
+      "category": "leeves"
+    }
+  ]
+}

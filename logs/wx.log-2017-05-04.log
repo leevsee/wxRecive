@@ -1,0 +1,619 @@
+[2017-05-04 08:46:02.362] [INFO] leeves - service star
+[2017-05-04 08:56:26.910] [INFO] leeves - ::ffff:192.168.0.111 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:05:12.446] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017210366305865</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>BA29D918F30F9C85DCF04AFF0661A157</sign>
+    <time_end>20170503171144</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:05:13.165] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:11:39.082] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017210366305865</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>BA29D918F30F9C85DCF04AFF0661A157</sign>
+    <time_end>20170503171144</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:11:39.150] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:12:07.268] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017210366305865</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>BA29D918F30F9C85DCF04AFF0661A157</sign>
+    <time_end>20170503171144</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:12:07.302] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:12:54.166] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017210366305865</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>BA29D918F30F9C85DCF04AFF0661A157</sign>
+    <time_end>20170503171144</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:12:54.182] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:15:42.427] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:15:42.438] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 09:15:55.912] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:15:55.920] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 09:16:14.791] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:16:14.801] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 09:16:47.160] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:16:47.169] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 09:19:02.445] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:19:50.630] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:19:55.207] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:31:00.349] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:38:03.146] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:38:39.763] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:49:58.001] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 09:49:58.018] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 09:53:57.830] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:54:04.855] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:54:17.518] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:54:56.677] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 09:55:05.035] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 09:56:31.076] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 226 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:00:27.454] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:01:19.882] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:01:40.963] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:01:46.159] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:02:18.581] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:02:21.401] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:03:42.020] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:04:29.540] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:08:39.159] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:08:41.790] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:09:03.955] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:11:03.957] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:12:00.354] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:14:38.801] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 10:15:39.914] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 10:20:03.376] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 10:20:03.385] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 10:50:08.766] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 10:50:08.779] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 11:20:11.212] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 11:20:11.230] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 12:20:13.902] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>7IU2P07QTGKF9WH0S327TF4LPBE5DDWP</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017130442975777</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D050A642B74ABFB8AADDDB81FCBEC2B9</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705049477474593</transaction_id>
+</xml>
+[2017-05-04 12:20:16.353] [INFO] leeves - ::ffff:192.168.0.111 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/4.0"
+[2017-05-04 14:19:49.311] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 14:20:23.449] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 211 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 14:25:40.695] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 14:26:19.485] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-04 14:27:11.008] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>1</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017220454168408</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>29BA33CE8BB457C714BE0B6A68780442</sign>
+    <time_end>20170504091541</time_end>
+    <total_fee>1</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-04 14:28:01.012] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 214 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"

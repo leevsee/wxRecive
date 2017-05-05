@@ -1,0 +1,46 @@
+[2017-05-05 08:51:59.741] [INFO] leeves - service star
+[2017-05-05 09:54:13.093] [INFO] leeves - ::ffff:192.168.0.111 - - "GET /wx/receive HTTP/1.1" 200 127 "" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; rv:11.0) like Gecko"
+[2017-05-05 14:20:59.196] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>2800</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017180535223003</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>7A9AAC07E0B6224C2BCDC158C94DF8D4</sign>
+    <time_end>20170505091541</time_end>
+    <total_fee>2800</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-05 14:20:59.519] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-05 14:50:20.618] [INFO] leeves - <?xml version='1.0'?>
+<xml>
+    <appid>wx584d55692bf63f7a</appid>
+    <bank_type>CFT</bank_type>
+    <cash_fee>2800</cash_fee>
+    <fee_type>CNY</fee_type>
+    <is_subscribe>N</is_subscribe>
+    <mch_id>1306260501</mch_id>
+    <nonce_str>IMF2ATCBHR1JKR2URWKKTC2Y21ABF3FT</nonce_str>
+    <openid>osoIY0ThjLz4KvAZTlRoQNlYRv08</openid>
+    <out_trade_no>2017490558313808</out_trade_no>
+    <result_code>SUCCESS</result_code>
+    <return_code>SUCCESS</return_code>
+    <sign>D86244D6C4F4EA614BA718B8355BEF59</sign>
+    <time_end>20170505141541</time_end>
+    <total_fee>2800</total_fee>
+    <trade_type>JSAPI</trade_type>
+    <transaction_id>4005672001201705039399050864</transaction_id>
+</xml>
+[2017-05-05 14:50:20.708] [INFO] leeves - ::ffff:127.0.0.1 - - "POST /wx/receive HTTP/1.1" 200 204 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36"
+[2017-05-05 14:52:55.111] [INFO] leeves - ::ffff:192.168.0.111 - - "GET /wx/receive HTTP/1.0" 200 127 "" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+[2017-05-05 14:53:04.348] [INFO] leeves - ::ffff:192.168.0.111 - - "GET /wx/receive HTTP/1.1" 200 127 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36"
+[2017-05-05 14:53:39.954] [INFO] leeves - ::ffff:192.168.0.111 - - "GET /wx/receive HTTP/1.1" 200 127 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2669.400 QQBrowser/9.6.10990.400"
+[2017-05-05 14:53:41.999] [INFO] leeves - ::ffff:192.168.0.111 - - "GET /favicon.ico HTTP/1.1" 200 127 "http://leeves.ngrok.cc/wx/receive" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2669.400 QQBrowser/9.6.10990.400"
